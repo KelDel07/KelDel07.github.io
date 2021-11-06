@@ -1,18 +1,11 @@
 ---
-name: "Kelvin Tamakloe's Resume"
-output_dir: "."
-navbar:
-  title: "Home"
-  right:
-    - text: "Resume"
-      href: index.html
-    - icon: fa-envelope fa-lg
-      href: mailto:<kdt2119@cumc.columbia.edu>
-    - icon: fa-github fa-lg
-      href: http://github.com/KelDel07/
-output:
-  html_document
+title: "Kelvin Tamakloe's Resume"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
 ---
+
 
 Hello and welcome to Kelvin Tamakloe's website! Below you will find his resume!
 
