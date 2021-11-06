@@ -33,21 +33,21 @@ order_aisle_insta =
 This plot represents a distribution of the hour of day for orders of Pink Lady Apples and Coffee Ice Cream respectively.
 
 ```{r}
-instacart_hour = 
+order_hour_insta = 
   instacart %>%
   filter(product_name %in% c("Pink Lady Apples", "Coffee Ice Cream")) %>%
   group_by(product_name, order_dow) %>%
   plot_ly(y = ~order_hour_of_day, color = ~product_name, type = "box", colors = "viridis")
-ggplotly(instacart_hour)
+ggplotly(order_hour_insta)
 ```
 
 This histogram demonstrates the relationship between order hour and the day for Pink Lady Apples and Coffee Ice Cream respectively.
 
 ```{r}
-instacart_day = 
+order_day_insta = 
   instacart %>%
   filter(product_name %in% c("Pink Lady Apples", "Coffee Ice Cream")) %>%
   group_by(product_name, order_dow) %>%
   plot_ly(x = ~order_hour_of_day, y = ~order_dow, color = ~product_name, type = "histogram")
-ggplotly(instacart_day)
+ggplotly(order_day_insta)
 ```
