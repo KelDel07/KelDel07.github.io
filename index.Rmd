@@ -1,0 +1,56 @@
+---
+name: "Kelvin Tamakloe's Resume"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "Resume"
+      href: index.html
+    - icon: fa-envelope fa-lg
+      href: mailto:<kdt2119@cumc.columbia.edu>
+    - icon: fa-github fa-lg
+      href: http://github.com/KelDel07/
+output:
+  html_document
+---
+
+Hello and welcome to Kelvin Tamakloe's website! Below you will find his resume!
+
+## Education
+
+COLUMBIA UNIVERSITY MAILMAN SCHOOL OF PUBLIC HEALTH, New York, NY
+Master of Public Health (MPH), Epidemiology Track, May 2022
+
+UNIVERSITY OF GHANA MEDICAL SCHOOL, Accra, Ghana
+Bachelor of Medicine, Bachelor of Surgery (MBChB) Nov 2015
+
+UNIVERSITY OF GHANA, Accra, Ghana
+Bachelor of Science, Medical Sciences Jun 2012
+
+
+## Work Experience  
+_COLUMBIA UNIVERSITY, MAILMAN SCHOOL OF PUBLIC HEALTH, New York Sep 2021 – ongoing_
+*Teaching Assistant, Research Methods and Applications – Quantitative Methods*
+• Responsibilities include teaching course modules, piloting and grading student assignments, and facilitating communication between faculty and students.
+
+_SINEL SPECIALIST HOSPITAL, Tema - Ghana Aug 2018 – Aug 2021_
+*Medical Officer*
+• Led a team of 10 nurses and midwives to provide annual breast and cervical cancer screening to more than 500 patients.
+• Achieved a 75% reduction in post-operative wound infections from 2019 – 2020 through recommendations following a review of pre, peri and post-operative protocols.
+
+_TEMA GENERAL HOSPITAL, Tema - Ghana Jun 2017 – May 2018_
+*Senior House Officer*
+• Designed a guideline protocol for the safe initiation and monitoring of induced labour in expectant mothers resulting in no recorded maternal morbidity or mortality within the first 4 months after adoption of the guidelines
+
+<img src="images/image_1.jpg" style="width:75%">
+
+<img src="Images/image_2.jpeg" style="width:75%">
+
+
+Here's back to the [index](index.html) page
+
+## Contacts
+
+*[Github](https://github.com/KelDel07)
+*[Email](kdt2119@cumc.columbia.edu)
+*[LinkedIn](https://www.linkedin.com/in/dela-dela-116687185/) 
